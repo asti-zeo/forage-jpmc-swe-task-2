@@ -1,5 +1,5 @@
 export interface Order {
-  price: Number,
+  price: number,
   size: Number,
 }
 /**
